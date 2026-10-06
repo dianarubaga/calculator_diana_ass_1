@@ -16,8 +16,11 @@ Once launched in the terminal the user will be prompted to choose between the op
 
 ```text
 src/
-├── calculator.py       # Reusable calculator functions and terminal window
-└── test_calculator.py  # Assertions and boundary-case tests
+└── calculator.py        # Reusable calculator functions and terminal interface
+
+tests/
+└── test_calculator.py   # Assertions and boundary-case test
+
 ```
 
 ## How to run the calculator
